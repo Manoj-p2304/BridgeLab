@@ -3,24 +3,20 @@ import java.util.Scanner;
 
 public class Code1 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a word: ");
-        String inputWord = scanner.nextLine();
-        String reversedWord = reverseWord(inputWord);
-        System.out.println("Reversed word: " + reversedWord);
-        scanner.close();
-    }
-    private static String reverseWord(String word) {
-        char[] charArray = word.toCharArray();
-        int start = 0;
-        int end = charArray.length - 1;
-        while (start < end) {
-            char temp = charArray[start];
-            charArray[start] = charArray[end];
-            charArray[end] = temp;
-            start++;
-            end--;
+        String input = "I am ram";
+        String[] words = input.split(" ");
+        StringBuilder reversedString = new StringBuilder();
+
+        for (int i = 0; i < words.length; i++) {
+            String word = words[i];
+            StringBuilder reversedWord = new StringBuilder(word).reverse();
+            reversedString.append(reversedWord);
+            if (i < words.length - 1) {
+                reversedString.append(" ");
+            }
         }
-        return new String(charArray);
+
+        System.out.println("Input - " + input);
+        System.out.println("Output - " + reversedString.toString());
     }
 }
