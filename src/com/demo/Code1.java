@@ -17,6 +17,6 @@ public class Code1 {
         }
 
         System.out.println("Input - " + input);
-        System.out.println("Output - " + reversedString.toString());
+        System.out.println("Output - " + reversedString);
     }
 }
