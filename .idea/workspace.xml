@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1196f6fa-5fbc-40ff-9ce7-290e4d2b7d34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/classProblems/SecondProb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/classProblems/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/FlipCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/HarmonicNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/PowerOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/PrimeFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/QuotientRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/day5_probelms/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classProblems/InheritanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classProblems/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day6_problems/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/day6_problems/PerfectNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +84,9 @@
       <workItem from="1698942835817" duration="3683000" />
       <workItem from="1699076863223" duration="655000" />
       <workItem from="1699251900769" duration="2980000" />
-      <workItem from="1699333389206" duration="8832000" />
+      <workItem from="1699333389206" duration="9649000" />
+      <workItem from="1699418618544" duration="3151000" />
+      <workItem from="1699593568385" duration="2432000" />
     </task>
     <servers />
   </component>
